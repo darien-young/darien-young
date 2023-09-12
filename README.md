@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darien-young, a young Software Developer looking to expand my reach and knowledge on all aspects Programming.
+- 👋 A young Software Developer looking to expand my reach and knowledge on all aspects Programming.
 - 🌱 I’m most familiarized with the languages C++ and C#, and have experience in Web Development using ASP.NET.
 - 💞️ You can reach me on Instagram @im_darrr_ !
 
